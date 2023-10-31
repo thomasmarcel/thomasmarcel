@@ -15,7 +15,7 @@ Masterminding digital escapades, steering IT strategies, and leading a fellowshi
 Commanding the tech brigade, where I lead our quest for technical excellence, shape our kingdom's technical vision, and architect our path to greatness.
 
 💻 **Full-Stack Sorcery**  
-I've dabbled in countless quests, mastering the art of spellbinding technologies and weaving them into magnificent digital tapestries.
+A seasoned adventurer in the realms of technology, wielding the magic of Vim incantations and Linux charms to sculpt digital epics.
 
 ## 💡 The Rust Crusader
 
