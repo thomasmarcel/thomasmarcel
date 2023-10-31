@@ -25,7 +25,7 @@ A fervent believer in the power of Rust, the magical elixir among programming la
 
 - Enigmatic open-source projects and daring experiments where I wield new spells and commune with the tech spirits.
 - Mysterious artifacts, runes, and sigils related to the Rust enchantments.
-- Musings, revelations, and the occasional nerdy chronicle on [m
+- Musings, revelations, and the occasional nerdy chronicle on [my
   blog](https://tomalcala.com).
 
 ## 🤝 Let's Join Forces!
